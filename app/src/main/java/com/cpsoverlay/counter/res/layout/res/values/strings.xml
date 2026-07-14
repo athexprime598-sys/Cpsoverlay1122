@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CPS Overlay</string>
+    <string name="accessibility_service_description">
+        Used only to relay your tap on the floating CPS button to the game
+        underneath it. Reads no screen content and performs no automated taps.
+    </string>
+</resources>
